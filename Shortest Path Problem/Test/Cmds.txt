@@ -1,0 +1,15 @@
+1412192_v1.exe Test\places_1.map Test\streets_1.map 3 14 0 Test\path.txt
+1412192_v1.exe Test\places_3.map Test\streets_3.map 0 4 1 Test\path.txt
+1412192_v1.exe Test\places_3.map Test\streets_3.map 4 0 1 Test\path.txt
+1412192_v1.exe Test\places_4.map Test\streets_4.map 7 11 0 Test\path.txt
+1412192_v1.exe Test\places_4.map Test\streets_4.map 7 11 1 Test\path.txt
+1412192_v2.exe Test\places_1.map Test\streets_1.map 1 4 14 1 Test\path.txt
+1412192_v2.exe Test\places_2.map Test\streets_2.map 1 4 11 0 Test\path.txt
+1412192_v2.exe Test\places_3.map Test\streets_3.map 2 7 1 1 Test\path.txt
+1412192_v2.exe Test\places_4.map Test\streets_4.map 5 3 15 0 Test\path.txt
+1412192_v2.exe Test\places_4.map Test\streets_4.map 15 3 5 0 Test\path.txt
+1412192_v3.exe Test\places_1.map Test\streets_1.map Test\gpss_1.map 13 Test\streets_to_visit_1.map 14 Test\route.map
+1412192_v3.exe Test\places_2.map Test\streets_2.map Test\gpss_2.map 0 Test\streets_to_visit_2.map 3 Test\route.map
+1412192_v3.exe Test\places_3.map Test\streets_3.map Test\gpss_3.map 0 Test\streets_to_visit_3.map 1 Test\route.map
+1412192_v3.exe Test\places_4.map Test\streets_4.map Test\gpss_4.map 0 Test\streets_to_visit_4.map 5 Test\route.map
+1412192_v3.exe Test\places_4.map Test\streets_4.map Test\gpss_4.map 5 Test\streets_to_visit_4.map 0 Test\route.map

@@ -1,0 +1,13 @@
+12
+Tiger, 20 1000
+Lion, 18 900
+Dog, 16 800
+Cat, 14 700
+Monkey, 12 600
+Bee, 10 500
+Elephant, 8 400
+Snake, 6 300
+juu, 9 222
+Turtle, 4 200
+uxubula, 6 144
+juu, 9 222
